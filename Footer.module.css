@@ -1,0 +1,32 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+  }
+  
+  .socialLinks {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .socialLinks li {
+    margin-right: 20px;
+  }
+  
+  .socialLinks a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .socialLinks a:hover {
+    color: #ccc;
+  }
+  
+  .fab {
+    font-size: 24px;
+  }
